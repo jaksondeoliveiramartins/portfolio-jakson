@@ -16,7 +16,7 @@ export function Card({ item }: ProjectProps) {
     <div className='flex flex-col justify-between p-4 gap-3 rounded border bg-background'>
       <div className='w-full h-28  flex items-center justify-center'>
 
-      <Image src={`https://raw.githubusercontent.com/https://raw.githubusercontent.com/jaksondeoliveiramartins/${item.name}portfolio-jakson/refs/heads/main/img/git-1.png`} alt='foto projeto'className='h-full w-auto'
+      <Image src={`https://raw.githubusercontent.com/DalioSY/${item.name}/refs/heads/master/img/git-1.png`} alt='foto projeto'className='h-full w-auto'
       width={1920}
       height={955}
       
