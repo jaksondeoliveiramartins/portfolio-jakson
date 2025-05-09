@@ -1,4 +1,4 @@
-# Portfólio Dalio
+# Portfólio Jakson
 
 ## Índice
 
@@ -57,7 +57,7 @@ Aqui estão algumas imagens do projeto:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/DalioSY/portfolio-next
+   git clone https://github.com/jakson/portfolio-next
    ```
 
 2. Navegue até o diretório do projeto:
