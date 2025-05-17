@@ -22,10 +22,10 @@ Criei meu novo portfólio do zero, utilizando meus conhecimentos mais recentes e
 Aqui estão algumas imagens do projeto:
 
 <div>
-    <img src="/" alt="Imagem 1" width="250"/>
-    <img src="/" alt="Imagem 2" width="250"/>
-    <img src="/" alt="Imagem 3" width="250"/>
-    <img src="/" alt="Imagem 4" width="250"/>
+    <img src="/git-1.png" alt="Imagem 1" width="250"/>
+    <img src="/git-2.png" alt="Imagem 2" width="250"/>
+    <img src="/git-3.png" alt="Imagem 3" width="250"/>
+    <img src="/git-4.png" alt="Imagem 4" width="250"/>
     <img src="/" alt="Imagem 5" width="250"/>
 </div>
 
